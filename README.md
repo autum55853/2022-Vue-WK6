@@ -1,24 +1,4 @@
-# vue-week6
+# vue-week6 2022年Vue直播班 第六周課程練習
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 簡易購物車
+https://autum55853.github.io/2022-Vue-WK6/#/
